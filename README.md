@@ -3,6 +3,10 @@ Aplicación swiftt acerca de personajes de disney
 
 La aplicación consume la API pública de Disney para mostrar personajes lo que permite consultar su información, marcar favoritos y acceder a ellos incluso sin conexión debido a que el proyyecto cuenta con persistencia local.
 
+<img width="235.8" height="511.2" alt="Simulator Screen Shot - iPhone 14 Pro - 2026-06-28 at 21 26 25" src="https://github.com/user-attachments/assets/39fd6274-eeae-4cad-8883-b8a832c9d0ed" />
+<img width="235.8" height="511.2" alt="Simulator Screen Shot - iPhone 14 Pro - 2026-06-28 at 21 26 40" src="https://github.com/user-attachments/assets/505e6cab-3e30-412b-b0f9-e1c5e403b4e7" />
+<img width="235.8" height="511.2" alt="Simulator Screen Shot - iPhone 14 Pro - 2026-06-28 at 21 26 30" src="https://github.com/user-attachments/assets/24802aa8-946e-42e5-8e69-b5f26b2ea2ef" />
+
 # Características
 Lista de personajes de disney, puedes consultar su información, agregar a favoritos para verlo en un apartado diferente 
 
