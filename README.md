@@ -32,6 +32,3 @@ Los favoritos se almacenan localmente mediante Core Data, permite conservar el e
 # Mejoras
 
 Existen varias mejoras a futuro, como usar skeleton View para previsualizar celdas que ayuden al usuario a esperar en lo que baja la información 
-**Cinthia Villegas Soto**
-
-iOS Developer
