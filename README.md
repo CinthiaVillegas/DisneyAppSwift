@@ -1,2 +1,3 @@
 # DisneyAppSwift
-sdasd
+Aplicación swiftt acerca de personajes de disney
+
