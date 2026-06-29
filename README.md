@@ -43,3 +43,5 @@ Se uso Ccore data para mantener la compatibilidad con iOS 16, aunque SwiftData e
 Se uso urlSession porque es una Api nativa de apple, evitanndo el uso de dependencias externas, por ende ya no es necesario el uso de alamofire
 
 El proyecto esa configurado para un iOS 16.2 o mayor
+
+PD: No le puse logo a la app para evitar problemas de Copyright 
