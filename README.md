@@ -1,5 +1,5 @@
 # DisneyAppSwift
-Aplicación swiftt acerca de personajes de disney
+Aplicación swift acerca de personajes de disney
 
 La aplicación consume la API pública de Disney para mostrar personajes lo que permite consultar su información, marcar favoritos y acceder a ellos incluso sin conexión debido a que el proyyecto cuenta con persistencia local.
 
