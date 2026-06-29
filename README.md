@@ -36,3 +36,10 @@ Los favoritos se almacenan localmente mediante Core Data, permite conservar el e
 # Mejoras
 
 Existen varias mejoras a futuro, como usar skeleton View para previsualizar celdas que ayuden al usuario a esperar en lo que baja la información 
+
+# Proyecto
+Se uso Ccore data para mantener la compatibilidad con iOS 16, aunque SwiftData es más moderno, requiere iOS 17 o mayor (Mi mac no lo aguanta jajajaja, es humilde)
+
+Se uso urlSession porque es una Api nativa de apple, evitanndo el uso de dependencias externas, por ende ya no es necesario el uso de alamofire
+
+El proyecto esa configurado para un iOS 16.2 o mayor
